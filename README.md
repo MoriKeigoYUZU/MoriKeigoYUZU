@@ -1,20 +1,8 @@
-<!--
-**MoriKeigoYUZU/MoriKeigoYUZU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MoriKeigoYUZU&count_private=true&show_icons=true" />
+</a>
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoriKeigoYUZU" />
+</a> -->
 
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![](https://github-readme-stats.vercel.app/api?username=MoriKeigoYUZU&show_icons=true&bg_color=30,3485ff,e38ad5&title_color=fff&text_color=fff)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MoriKeigoYUZU&bg_color=30,3485ff,e38ad5&title_color=fff&text_color=fff)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MoriKeigoYUZU&column=3&margin-w=15&margin-h=15)](https://github.com/MoriKeigoYUZU/github-profile-trophy)
+[![](https://raw.githubusercontent.com/MoriKeigoYUZU/MoriKeigoYUZU/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
