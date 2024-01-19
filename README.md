@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=MoriKeigoYUZU&show_icons=true&bg_color=30,3485ff,e38ad5&title_color=fff&text_color=fff)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MoriKeigoYUZU&bg_color=30,3485ff,e38ad5&title_color=fff&text_color=fff)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MoriKeigoYUZU&column=3&margin-w=15&margin-h=15)](https://github.com/MoriKeigoYUZU/github-profile-trophy)
