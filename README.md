@@ -1,5 +1,5 @@
 <!--
-**MoriKeigoYUZUA/MoriKeigoYUZUA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MoriKeigoYUZU/MoriKeigoYUZU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 # I'm beginner at Vim.
 
-![](https://github-readme-stats.vercel.app/api?username=MoriKeigoYUZUA&show_icons=true&bg_color=30,3485ff,e38ad5&title_color=fff&text_color=fff)
+![](https://github-readme-stats.vercel.app/api?username=MoriKeigoYUZU&show_icons=true&bg_color=30,3485ff,e38ad5&title_color=fff&text_color=fff)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MoriKeigoYUZUA&bg_color=30,3485ff,e38ad5&title_color=fff&text_color=fff)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MoriKeigoYUZU&bg_color=30,3485ff,e38ad5&title_color=fff&text_color=fff)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MoriKeigoYUZUA&column=3&margin-w=15&margin-h=15)](https://github.com/MoriKeigoYUZUA/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MoriKeigoYUZU&column=3&margin-w=15&margin-h=15)](https://github.com/MoriKeigoYUZU/github-profile-trophy)
 
 <table>
     <tbody>
