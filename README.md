@@ -36,8 +36,7 @@ Goを軸に、Webプロダクトをつくっているソフトウェアエンジ
 ## GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MoriKeigoYUZU&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=F6C945&icon_color=F6C945" alt="Keigo's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoriKeigoYUZU&layout=compact&hide_border=true&theme=transparent&title_color=F6C945" alt="Most used languages" />
+  <img src="./profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Top languages by repository" />
 </p>
 
 <p align="center">
