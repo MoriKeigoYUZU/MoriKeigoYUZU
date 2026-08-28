@@ -14,15 +14,13 @@
   <img src="https://skillicons.dev/icons?i=go,ts,js,react,vue,nuxt,mysql,docker,git,githubactions&perline=10" alt="Go, TypeScript, JavaScript, React, Vue, Nuxt, MySQL, Docker, Git, and GitHub Actions" />
 </p>
 
-`Go` · `TypeScript` · `React` · `Vue / Nuxt` · `gRPC / Connect` · `MySQL` · `Docker`
-
 ## What I build
 
 | | Area | Examples |
 |---|---|---|
-| ⚙️ | Backend & API | Go、gRPC / Connect、データ設計 |
-| 🖥️ | Web frontend | TypeScript、React、Vue / Nuxt |
-| 🧰 | Developer tools | Chrome拡張、CLI、日常作業の自動化 |
+| ⚙️ | Backend & API | Go, gRPC / Connect, data modeling |
+| 🖥️ | Web frontend | TypeScript, React, Vue / Nuxt |
+| 🧰 | Developer tools | Chrome extensions, CLI tools, workflow automation |
 
 ## GitHub activity
 
