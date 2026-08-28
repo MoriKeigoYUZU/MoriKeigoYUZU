@@ -8,15 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=MoriKeigoYUZU&style=flat-square&color=F6C945&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
-## About me
-
-Goを軸に、Webプロダクトをつくっているソフトウェアエンジニアです。
-バックエンドやAPI設計を中心に、必要に応じてフロントエンドや開発ツールまで触ります。
-
-- 🧩 シンプルで運用しやすい設計が好きです
-- 🛠️ 日々の小さな不便をツールで解消します
-- 🌱 より良い開発体験と、長く育てられるコードに関心があります
-
 ## Tech stack
 
 <p>
